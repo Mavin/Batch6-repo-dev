@@ -1,4 +1,4 @@
 create or replace view v1_deemo
 as
-select max(sal),deptno from emp
+select max(sal) asdfadsfa,deptno from emp
 group by deptno;
