@@ -1,0 +1,13 @@
+hello please follow instraing
+git clone -- copy gocabl to to local 
+
+git add . --> add files to git bash
+
+git commit -m "tick number -desc"
+
+git log ---history of cimmits
+
+git stauts -- untracked
+               --modiified
+			   --commied
+git push 
